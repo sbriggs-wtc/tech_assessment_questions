@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+    <name>Shane</name>
+    <surname>Briggs</surname>
+    <hobbies>
+        <hobbie1>bungee_jumping</hobbie1>
+        <hobbie2>sky_diving</hobbie2>
+        <hobbie3>target_shooting</hobbie3>
+    </hobbies>
+    <address>39 Rissik Street</address>
+
+</information>
